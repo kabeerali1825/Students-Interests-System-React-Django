@@ -1,1 +1,1 @@
-# Students-Interests-System-React-Django
+Semester project for ES based on Django and React
